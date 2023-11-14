@@ -1,0 +1,37 @@
+---
+  ScenarioPlugin.NewDeploymentWorkload:
+    -
+      args:
+        image_location: "http://download.cirros-cloud.net/0.3.5/cirros-0.3.5-x86_64-disk.img"
+        container_format: "bare"
+        disk_format: "qcow2"
+        network_create_args: {}
+      runner:
+        type: "constant_for_duration"
+        concurrency: 1
+        duration: 600
+        timeout: 2000
+      hooks:
+        - name: fault_injection
+          args:
+            debug: true
+            target:
+              target: "network"
+              interface: "enp2s0"
+              host: "wally191.cit.tu-berlin.de"
+            params:
+              delay: "120s"
+              duration: "300s"
+              tcconfig: "-loss 30%"
+            anomaly: "tc"
+            config:
+              ansible:
+                ansible_python_interpreter: "/usr/bin/python3"
+                ansible_user: "yevhen"
+                private_key_file: "~/.ssh/id_rsa"
+              hosts: [node_list]
+          trigger:
+            name: event
+            args:
+              unit: iteration
+              at: [ 1 ]
