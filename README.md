@@ -24,7 +24,7 @@ The prior projects were published into the following papers:
     
     * J. Bogatinovski, G. Madjarov, S. Nedelkoski, J. Cardoso and O. Kao. "Leveraging Log Instructions in Log-based Anomaly Detection". (2022). IEEE International Conference on Services Computing (SCC), Barcelona, Spain, 2022, pp. 321-326, doi: 10.1109/SCC55611.2022.00053 (h5-index 17, Open Access).
     
-    * S. Nedelkoski, J. Bogatinovski, A. Acker, J. Cardoso and O. Kao, "Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs", (2020) IEEE International Conference on Data Mining (ICDM), Sorrento, Italy, 2020, pp. 1196-1201, doi: 10.1109/ICDM50108.2020.00148. (**A* ranking**, h5 index 52)
+    * S. Nedelkoski, J. Bogatinovski, A. Acker, J. Cardoso and O. Kao, "Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs", (2020) IEEE International Conference on Data Mining (ICDM), Sorrento, Italy, 2020, pp. 1196-1201, doi: 10.1109/ICDM50108.2020.00148. (**A\* ranking**, h5 index 52)
     
     * J. Bogatinovski*, S. Nedelkoski*, A. Acker, J. Cardoso, O. Kao. (2021). “Self-supervised Log Parsing”. In: Machine Learning and Knowledge Discovery in Databases: Applied Data Science Track. ECML PKDD 2020. Lecture Notes in Computer Science, vol 12460. Springer, Cham. https://doi.org/10.1007/978-3-030-67667-4_8. (h5 index 42, Open Access).
     
