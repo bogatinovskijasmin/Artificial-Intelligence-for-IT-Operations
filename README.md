@@ -26,11 +26,11 @@ The prior projects were published into the following papers:
     
     * S. Nedelkoski, J. Bogatinovski, A. Acker, J. Cardoso and O. Kao, "Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs", (2020) IEEE International Conference on Data Mining (ICDM), Sorrento, Italy, 2020, pp. 1196-1201, doi: 10.1109/ICDM50108.2020.00148. (**A\* ranking**, h5 index 52)
     
-    * J. Bogatinovski*, S. Nedelkoski*, A. Acker, J. Cardoso, O. Kao. (2021). “Self-supervised Log Parsing”. In: Machine Learning and Knowledge Discovery in Databases: Applied Data Science Track. ECML PKDD 2020. Lecture Notes in Computer Science, vol 12460. Springer, Cham. https://doi.org/10.1007/978-3-030-67667-4_8. (h5 index 42, Open Access).
+    * J. Bogatinovski, S. Nedelkoski, A. Acker, J. Cardoso, O. Kao. (2021). “Self-supervised Log Parsing”. In: Machine Learning and Knowledge Discovery in Databases: Applied Data Science Track. ECML PKDD 2020. Lecture Notes in Computer Science, vol 12460. Springer, Cham. https://doi.org/10.1007/978-3-030-67667-4_8. (h5 index 42, Open Access).
     
     * J. Bogatinovski, S. Nedelkoski, L. Wu, J. Cardoso and O. Kao, "Failure Identification from Unstable Log Data using Deep Learning". (2022). 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Taormina, Italy, 2022, pp. 346-355, doi: 10.1109/CCGrid54584.2022.00044 (h-index 24, Open Access).
 
-2. *Source Code Analysis"
+2. "Source Code Analysis"
     * J. Bogatinovski and O. Kao, "Auto-Logging: AI-centred Logging Instrumentation". (2023). IEEE/ACM 45th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER), Melbourne, Australia, 2023, pp. 95-100, doi: 10.1109/ICSE-NIER58687.2023.00023 (**A\* ranking** h5 index 85). 
 
     * J. Bogatinovski, S. Nedelkoski, A. Acker, J. Cardoso, and O. Kao. “QuLog: data-driven approach for log instruction quality assessment”. (2022). In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension (ICPC '22). Association for Computing Machinery, New York, NY, USA, 275–286. https://doi.org/10.1145/3524610.3527906 (h-index 31, Open Access)
